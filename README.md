@@ -3,14 +3,14 @@ Bonita BPM 7 widget displaying a Bonita document as a PDF
 
 ## Resources
 The release zip contains two files:
-* ```widget-iframe.zip``` - the widget itself
+* ```widget-pdfViewer.zip``` - the widget itself
 * ```Display PDF-1.0.bos``` - a sample process using the widget (importing it will automatically import the widget)
 
 ## Configuration
 Widget properties:
 * ```Document contentStorageId``` - the contentStorageId of your Bonita document. Can be retrieved using the context. Be sure to activate binding for this property.
 * ```Application Name``` - the web application name (bonita by default).
-* ```Style``` - the CSS style used for the PDF viewer passed as a JS object.  Be sure to activate binding for this property.
+* ```Style``` - the CSS style used for the PDF viewer passed as a JS object. Make sure to activate binding for this property.
 
 ## Screenshots
 Configuration used in the sample process:<br/>
