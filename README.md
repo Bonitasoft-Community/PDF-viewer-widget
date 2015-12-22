@@ -1,5 +1,5 @@
 # PDF viewer widget
-Bonita BPM 7 widget displaying a Bonita document as a PDF
+Bonita BPM 7 widget displaying a Bonita document as a PDF.<br/>
 Current widget version (v1.0) is compatible with Bonita BPM 7.1 and upper.
 
 ## Resources
