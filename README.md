@@ -1,4 +1,8 @@
 # PDF viewer widget
+
+**Important:** since Bonita 7.9, Bonita file widget is available in Bonita Community Edition. As a consequence activity on this community contribution widget as stopped.
+Please try the file viewer widget and report issues on https://bonita.atlassian.net/projects/BBPMC/issues if you find any.
+
 Bonita BPM 7 widget displaying a Bonita document as a PDF.<br/>
 Current widget version (v1.0) is compatible with Bonita BPM 7.1 and upper.
 
